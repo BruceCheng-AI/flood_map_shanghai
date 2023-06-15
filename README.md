@@ -1,3 +1,4 @@
+![洪水风险反演](https://github.com/BruceCheng-AI/flood_map_shanghai/blob/main/results/%E6%B4%AA%E6%B0%B4%E9%A3%8E%E9%99%A9%E5%8F%8D%E6%BC%94_5.gif)
 # Typhoon 9711 Flood Risk Inversion Study in Shanghai
 
 This repository contains notebooks and data necessary to perform an in-depth study on flood risk in Shanghai, based on data gathered from Typhoon 9711. It is crucial to understand how past typhoons have affected the area in order to plan and prepare for future events. 
